@@ -29,3 +29,8 @@ PORT    -> Indica a porta que aplicação vai rodar
 DEBUG   -> Variavel para auxiliar no debugs
 USER    -> Usuario principal
 TOKEN   -> Token de acesso
+
+
+Ultima Alteração do log:
+702fb2d (HEAD -> dev, origin/dev) feat: tarefa 8
+
