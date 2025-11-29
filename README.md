@@ -12,8 +12,13 @@ Requisitos:
 • Conta no GitHub
 
 Cenário:
+
 > Você está trabalhando em um projeto que utiliza Git e GitHub como
-ferramentas. Realize as seguintes tarefas que representam o fluxo de
-trabalho com Git/GitHub
+> ferramentas. Realize as seguintes tarefas que representam o fluxo de
+> trabalho com Git/GitHub
 
 O Arquivo com os demais detalhes esta disponivel no AVA.
+
+Equipe:
+Italo Souza Sampaio, matricula 2516202
+Arion Mathias Farias de Martins Oliveira, matricula 2517536
